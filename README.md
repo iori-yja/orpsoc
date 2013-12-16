@@ -26,7 +26,6 @@ $ git clone git@github.com:openrisc/orpsoc.git
 ```
 
 #### Debian GNU/Linux
-Install packages to run a simulation and clone git repositories.
 ```bash
 $ sudo apt-get install iverilog python3
 $ git clone git@github.com:openrisc/orpsoc-cores.git
