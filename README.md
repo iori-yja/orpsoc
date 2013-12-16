@@ -1,13 +1,15 @@
-orpsoc
-======
+OpenRISC v3
+========
 
 ## What's OpenRISC?
 
 OpenRISC is a processor design that is released under LGPL.
 This design can be implemented and run both FPGA and ASIC.
-Specification is here: http://openrisc.net/or1200-spec.html
+Specification is here: [OpenRISC 1200 IP Core Specification (Preliminary Draft)](http://openrisc.net/or1200-spec.html)
 
 ## How to simulate OpenRISC?
+
+Simulation is first process to examine whether HDL design is correct or not.
 
 ### Dependencies
 
@@ -30,16 +32,16 @@ Specification is here: http://openrisc.net/or1200-spec.html
 ## OpenRISC Project web site
 
 OpenRISC has two web site.
-- http://opencores.org/or1k
-- http://openrisc.net
+- [http://opencores.org/or1k](http://opencores.org/or1k)
+- [http://openrisc.net](http://openrisc.net)
 
 And also, there are more sites for OpenRISC users.
 
-wiki: http://opencores.org/or1k/OR1K:Community_portal
-Mailing lists: http://lists.openrisc.net/ http://lists.opencores.org/
-forum: http://opencores.org/forum,OpenRISC
-git: https://github.com/openrisc
-IRC log: http://juliusbaxter.net/openrisc-irc/
+- wiki: [OR1K:Community portal](http://opencores.org/or1k/OR1K:Community_portal)
+- Mailing lists: [lists.opencores.org Mailing Lists](http://lists.opencores.org/)
+- forum: [OpenCores](http://opencores.org/forum,OpenRISC)
+- git: [openrisc](https://github.com/openrisc)
+- IRC log: [IRC logs for #openrisc on irc.freenode.net](http://juliusbaxter.net/openrisc-irc/)
 
 ## Hacks
 
